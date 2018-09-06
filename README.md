@@ -300,7 +300,7 @@ La propiedad `display` de CSS permite establecer el tipo de disposición de los 
 * `div.card-columns`
 
 ### Recursos importantes
-  * `https://placeimg.com/640/480/nature`
+  * `https://placeimg.com/640/480/any`
 
 ## 17. Galería de imágenes
 
