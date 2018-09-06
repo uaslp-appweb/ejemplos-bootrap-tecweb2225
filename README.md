@@ -210,10 +210,10 @@ La propiedad `display` de CSS permite establecer el tipo de disposición de los 
 * `alert-heading`
 * `button.close`
 
-### Atributos importante
+### Atributos importantes
 * `data-dismiss = "alert"`
 
-## 12. Modal
+## 13. Modal
 
 ### Clases importantes
 
@@ -268,6 +268,7 @@ La propiedad `display` de CSS permite establecer el tipo de disposición de los 
 * `span.carousel-control-next-icon`
 * `ol.carousel-indicators`
 * `li.active`
+* `img.w-100`
 
 ### Atributos importantes
 
@@ -325,3 +326,22 @@ La propiedad `display` de CSS permite establecer el tipo de disposición de los 
 
 ### Recursos importantes
 * `https://source.unsplash.com/daily`
+
+## 19. Tablas
+
+### Clases importantes
+
+* `table`
+* `table-striped`
+* `table-hover`
+* `table-bordered`
+* `table-borderless`
+* `table-*`
+* `table-sm`
+* `table-dark`
+* `thead-light`
+* `thead-dark`
+* `div.table-responsive`
+* `div.table-responsive-{breakpoint}`
+
+## 20. Examen
